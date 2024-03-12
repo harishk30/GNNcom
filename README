@@ -1,1 +1,3 @@
+# Using a GNN to predict Center of Mass.
+
 Practice code to estimate the center of mass of a set of random points generated within a given cube using a GNN.
